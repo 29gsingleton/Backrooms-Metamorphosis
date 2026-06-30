@@ -2,9 +2,8 @@ using UnityEngine;
 
 public class Item : MonoBehaviour
 {
-
-    public float weight;
-
+    //add a weapons class
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
